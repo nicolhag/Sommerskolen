@@ -11,9 +11,9 @@
 Åpne mappen for operativsystemet du bruker som begynner med "application"
 
 **************Morsomme ting man kan gjøre**************
+
 1. Endre slangen fra å bli tegnet som en ellipse til å være et bilde av deg selv. (hint: Se PImage på processing.org). Maten kan også bli tegnet som bilder av f. eks. epler.
 2. Endre farger (på slange/mat/bakgrunn)
-3. 
 
 
 **************Kjente mangler**************
