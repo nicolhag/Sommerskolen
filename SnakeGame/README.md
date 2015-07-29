@@ -1,3 +1,6 @@
+# Snake-implementasjon i Processing
+
+
 **************Processing**************
 
 Åpne SnakeGame.pde for å kjøre og endre på programmet (resten av filene åpnes automatisk)
